@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/thisismohdehtisham/Leetcode/tree/master/0071-simplify-path) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
