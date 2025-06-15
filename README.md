@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0889-buddy-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
