@@ -1,12 +1,11 @@
 class Solution {
 public:
     int minTimeToType(string word) {
-        int n = word.length(), time = n;
-
-        for(int i=1; i<n; i++){
-            int move = abs(word[i-1] - word[i]);
-            time += min(move, 26 - move);
+        int ans = word.size(), point = 'a';
+        for(auto ch : word){
+            ans += min(abs(ch - point), 26 - abs(point - ch));
+            point = ch;
         }
-        return time + min(word[0] - 'a', 'z' - word[0] + 1);
+        return ans;
     }
 };
