@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thisismohdehtisham/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thisismohdehtisham/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/thisismohdehtisham/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisismohdehtisham/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/thisismohdehtisham/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thisismohdehtisham/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/thisismohdehtisham/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
