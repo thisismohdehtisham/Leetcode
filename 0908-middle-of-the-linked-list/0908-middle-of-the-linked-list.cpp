@@ -10,24 +10,42 @@
  */
 class Solution {
 public:
-    int getLength(ListNode* head) {
-        int len = 0;
-        while (head != NULL) {
-            len++;
-            head = head->next;
+    /*
+        int getLength(ListNode* head) {
+            int len = 0;
+            while (head != NULL) {
+                len++;
+                head = head->next;
+            }
+            return len;
         }
-        return len;
-    }
+    */
     ListNode* middleNode(ListNode* head) {
-        int len = getLength(head);
-        int ans = (len / 2);
+        /*      Method - 1
+                int len = getLength(head);
+                int ans = (len / 2);
 
-        ListNode* temp = head;
-        int cnt = 0;
-        while (ans--) {
-            temp = temp->next;
-            cnt++;
+                ListNode* temp = head;
+                int cnt = 0;
+                while (ans--) {
+                    temp = temp->next;
+                    cnt++;
+                }
+                return temp;
+        */
+
+        // slow and fast pointer
+        if (head == NULL && head->next == NULL) {
+            return head;
         }
-        return temp;
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
 };
