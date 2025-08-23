@@ -12,6 +12,7 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
         if (!head) return;
+        //TC - O(n) + O(n/2) + O(n) = O(n), SC - O(1)
 
         // middle of the linked list
         ListNode* slow = head;
