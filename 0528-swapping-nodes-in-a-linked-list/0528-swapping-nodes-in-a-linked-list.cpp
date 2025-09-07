@@ -29,7 +29,7 @@ public:
         for (int i = 1; i < count - k + 1; i++) {
             second = second->next;
         }
-
+        // swap the node
         swap(first->val, second->val);
         return head;
     }
