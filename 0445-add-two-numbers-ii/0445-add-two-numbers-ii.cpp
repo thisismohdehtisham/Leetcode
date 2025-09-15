@@ -27,7 +27,7 @@ public:
         ListNode* rl1 = reversell(l1);
         ListNode* rl2 = reversell(l2);
 
-        ListNode* dummy = new ListNode(NULL);
+        ListNode* dummy = new ListNode(0);
         ListNode* curr = dummy;
         ListNode* temp1 = rl1;
         ListNode* temp2 = rl2;
@@ -53,7 +53,5 @@ public:
         }
 
         return reversell(dummy->next);
-
-    
     }
 };
