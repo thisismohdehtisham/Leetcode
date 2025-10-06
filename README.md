@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thisismohdehtisham/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/thisismohdehtisham/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-merge-in-between-linked-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/thisismohdehtisham/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
