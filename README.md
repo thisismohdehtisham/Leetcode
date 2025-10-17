@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thisismohdehtisham/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0889-buddy-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/0889-buddy-strings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/thisismohdehtisham/Leetcode/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0889-buddy-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/0889-buddy-strings) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisismohdehtisham/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
