@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0932-monotonic-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0889-buddy-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisismohdehtisham/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
