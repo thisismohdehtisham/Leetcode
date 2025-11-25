@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/0889-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thisismohdehtisham/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/thisismohdehtisham/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
