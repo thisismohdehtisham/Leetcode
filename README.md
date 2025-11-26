@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/thisismohdehtisham/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/thisismohdehtisham/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/thisismohdehtisham/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisismohdehtisham/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/thisismohdehtisham/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/thisismohdehtisham/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 <!---LeetCode Topics End-->
