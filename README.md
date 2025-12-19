@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/thisismohdehtisham/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
