@@ -1,31 +1,27 @@
 class Solution {
 public:
     string simplifyPath(string path) {
+        stack<string>st;
         string token = "";
         stringstream ss(path);
-        stack<string> st;
 
         while(getline(ss, token, '/')){
-            if (token == "" || token == ".") continue;
-            
+            if(token == "" || token == ".") continue;
+
             if(token != ".."){
                 st.push(token);
             }else if(!st.empty()){
                 st.pop();
             }
         }
-            if(st.empty()) return "/";
-
-            string result = "";
+            string res = "";
             while(!st.empty()){
-                result = "/" + st.top() + result;
+                res = "/" + st.top() + res;
                 st.pop();
             }
+            if(res.length() == 0) res = "/";
 
-        if(result.length()==0) 
-            result="/"; 
-        
-        return result;
+            return res;
         
     }
 };
