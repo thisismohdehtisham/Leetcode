@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0932-monotonic-array) |
+| [0946-validate-stack-sequences](https://github.com/thisismohdehtisham/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/thisismohdehtisham/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/thisismohdehtisham/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/thisismohdehtisham/Leetcode/tree/master/1544-make-the-string-great) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/thisismohdehtisham/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/thisismohdehtisham/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/thisismohdehtisham/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/2390-removing-stars-from-a-string) |
