@@ -16,7 +16,10 @@ public:
 
         string res;
         for (auto& p : stack) {
-            res.append(p.second, p.first);
+            // string& append(size_t count, char ch);
+            // p = {'a', 3}
+            // res.append(3, 'a'), res = "aaa"
+            res.append(p.second, p.first);  
         }
 
         return res;
