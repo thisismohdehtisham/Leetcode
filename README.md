@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/thisismohdehtisham/Leetcode/tree/master/0932-monotonic-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/thisismohdehtisham/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
