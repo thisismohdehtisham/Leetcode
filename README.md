@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/thisismohdehtisham/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/thisismohdehtisham/Leetcode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/thisismohdehtisham/Leetcode/tree/master/0402-remove-k-digits) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thisismohdehtisham/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/thisismohdehtisham/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thisismohdehtisham/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/thisismohdehtisham/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/thisismohdehtisham/Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/thisismohdehtisham/Leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thisismohdehtisham/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thisismohdehtisham/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/thisismohdehtisham/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thisismohdehtisham/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/thisismohdehtisham/Leetcode/tree/master/0739-daily-temperatures) |
