@@ -1,0 +1,29 @@
+class Solution {
+public:
+    string removeKdigits(string num, int k) {
+        string res = "";
+
+        for (char c : num) {
+            while (!res.empty() && k > 0 && res.back() > c) {
+                res.pop_back();
+                k--;
+            }
+            res.push_back(c);
+        }
+
+        while (k > 0 && !res.empty()) {
+            res.pop_back();
+            k--;
+        }
+
+        int i = 0;
+        while (i < res.size() && res[i] == '0')
+            i++;
+
+        string ans = res.substr(i);
+        if (ans == "") {
+            return "0";
+        }
+        return ans;
+    }
+};
