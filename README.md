@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thisismohdehtisham/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/thisismohdehtisham/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,10 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/thisismohdehtisham/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/thisismohdehtisham/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/thisismohdehtisham/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Binary Search
 |  |
 | ------- |
