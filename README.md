@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/thisismohdehtisham/Leetcode/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
