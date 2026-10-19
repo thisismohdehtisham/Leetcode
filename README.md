@@ -277,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1158-market-analysis-i](https://github.com/thisismohdehtisham/Leetcode/tree/master/1158-market-analysis-i) |
+| [1693-daily-leads-and-partners](https://github.com/thisismohdehtisham/Leetcode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
